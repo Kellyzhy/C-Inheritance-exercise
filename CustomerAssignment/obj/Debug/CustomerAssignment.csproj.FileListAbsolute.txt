@@ -1,0 +1,6 @@
+C:\Users\Kelly\source\repos\ConsoleApp3\CustomerAssignment\bin\Debug\CustomerAssignment.exe.config
+C:\Users\Kelly\source\repos\ConsoleApp3\CustomerAssignment\bin\Debug\CustomerAssignment.exe
+C:\Users\Kelly\source\repos\ConsoleApp3\CustomerAssignment\bin\Debug\CustomerAssignment.pdb
+C:\Users\Kelly\source\repos\ConsoleApp3\CustomerAssignment\obj\Debug\CustomerAssignment.exe
+C:\Users\Kelly\source\repos\ConsoleApp3\CustomerAssignment\obj\Debug\CustomerAssignment.pdb
+C:\Users\Kelly\source\repos\ConsoleApp3\CustomerAssignment\obj\Debug\CustomerAssignment.csprojAssemblyReference.cache
